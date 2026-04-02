@@ -72,6 +72,6 @@ This repository showcases a professional data engineering and business intellige
 ---
 
 ## 📂 Repository Structure
-* [cite_start]`/script/datagenerator_sqlserver.py`: ETL script for data generation and SQL injection. [cite: 5]
+* [cite_start]`/script/datagenerator_sql.py`: ETL script for data generation and SQL injection. [cite: 5]
 * [cite_start]`/images/`: High-resolution images of the dashboard. [cite: 5]
 * [cite_start]`Financial_Intelligence_V4.pbix`: The master Power BI dashboard file. [cite: 5]
