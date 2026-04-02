@@ -19,10 +19,10 @@ This repository showcases a professional data engineering and business intellige
 ## 📊 Dashboard Preview
 
 ![Executive Summary](images/main.png)
-[cite_start]*Figure 1: Executive Summary showing YTD Spending and Budget Variance.* [cite: 5]
+*Figure 1: Executive Summary showing YTD Spending and Budget Variance.* 
 
 ![Audit Patterns](images/details.png)
-[cite_start]*Figure 2: Transactional Audit page with Anomaly Detection and Burn Rate analysis.* [cite: 5]
+*Figure 2: Transactional Audit page with Anomaly Detection and Burn Rate analysis.* 
 
 ---
 
