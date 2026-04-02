@@ -50,12 +50,12 @@ By moving beyond static files, this architecture simulates a real-world enterpri
 - Generated synthetic financial data and architected a relational model.
 - Established basic tracking for Income vs. Expenses and Geographic mapping.
 
-### Iteration 3: SQL Data Engineering (Current Phase) 📍
+### Iteration 3: SQL Data Engineering 
 - Migrated from flat CSV files to a **Live SQL Server** backend.
 - Engineered a Python-to-SQL pipeline using batch inserts (`fast_executemany`) for performance.
 - Implemented live data refresh capability in Power BI.
 
-### Iteration 4: Data Quality & Cleaning (Current Phase)
+### Iteration 4: Data Quality & Cleaning (Current Phase) 📍
 - Simulating real-world "messy" data including null values, duplicates, and inconsistent strings.
 - Demonstrating advanced **Power Query** and **SQL** cleaning techniques to ensure data integrity.
 
